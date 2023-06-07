@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724526673741",
+    "project_id": "proyectofirebaserecu",
+    "storage_bucket": "proyectofirebaserecu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724526673741:android:94d8eb98cc846c1ada1104",
+        "android_client_info": {
+          "package_name": "com.adriansegovia.proyectofirebaserecu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724526673741-g5jl6fthku3jtcl6aktn3b0njof4cq4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_4rsT4WodgbeDqmsTjfiRSvcLHDaWQ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724526673741-g5jl6fthku3jtcl6aktn3b0njof4cq4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
